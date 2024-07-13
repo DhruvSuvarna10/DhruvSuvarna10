@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently interested in Cyber Sec, Digital Forensics and looking to get into AI&ML.
 <!--
 **DhruvSuvarna10/DhruvSuvarna10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
